@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @jnersu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#Hello world App#
 
-<!---
-jnersu/jnersu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Your system should have below requirements
+
+1. install python version 3.10.2
+2. install pip version 22.0.3
+3. install django version 4.0.2
+
+Now, after fulfilling all requiremnets
+Open project using any python editor preferabbly use Visual studio code
+Then in the terminal run the bellow command.
+python manage.py runserver
+
+You will get the hello world message  in your django webapp.
